@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Happy Birthday Friend!"
+        android:text="@string/friend"
         android:textSize="24sp"
         android:fontFamily="sans-serif-smallcaps"
         android:layout_marginTop="16dp"
@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
-        android:text="From, Randy"
+        android:text="@string/from"
         android:textSize="24sp"
         android:fontFamily="cursive"
         android:layout_marginTop="16dp"
