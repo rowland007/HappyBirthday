@@ -2,4 +2,7 @@
     <string name="app_name">Happy Birthday</string>
     <string name="friend">Happy Birthday Friend!</string>
     <string name="from">From, Randy</string>
+    <string name="restName">Korea Top Ramen</string>
+    <string name="address">67E Pyoi-Gyamm</string>
+    <string name="description">This place has a lovely selection of ramen. They have a vegetarian options if required. They have the best staff that will get you anything from beer to garlic.</string>
 </resources>
